@@ -4,7 +4,7 @@
 
 ### Digital Al-Afaq Bank — Phase 1: Digital Banking Security
 
-**A complete governance, risk and compliance (GRC) documentation set for an Information Security Management System (ISMS) aligned with ISO/IEC 27001:2022**
+***A complete governance, risk and compliance (GRC) documentation set for an Information Security Management System (ISMS) aligned with ISO/IEC 27001:2022***
 
 ![Standard](https://img.shields.io/badge/Standard-ISO%2FIEC%2027001%3A2022-0B2545)
 ![Domain](https://img.shields.io/badge/Domain-ISMS%20%2F%20GRC-1282A2)
