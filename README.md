@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏦 ISMS Implementation Case Study — ISO/IEC 27001:2022
+# ISMS Implementation Case Study — ISO/IEC 27001:2022
 
 ### Digital Al-Afaq Bank — Phase 1: Digital Banking Security
 
